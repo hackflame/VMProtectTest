@@ -1,0 +1,2 @@
+# VMProtectTest
+VMProtectTest
